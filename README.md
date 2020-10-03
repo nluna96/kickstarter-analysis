@@ -11,9 +11,9 @@ There are four different outcomes for kickstarter campaigns. Those outcomes are 
 These outcomes define if the campaign reached its set goal. For example, Lousie set a goal of 4,000 dollars for her play 'Fever' . 
 The outcome will be defined by the pledge reaching the goal or not. The pledge is dollar amount raised for a specific campaign.
 If we continue with the example that Louise has a goal of $4,000 for her kickstarter campaign. 
-Lousie's goal is between $1,000 - $4,999 giving her a 72.66 percent chance that she will be successful reaching her goal. The graph below was created using the data from the 4,114 campaigns. However, 
+Lousie's goal is between $1,000 - $4,999 giving her a 72.66 percent chance that she will be successful reaching her goal. The graph below was created using the data from the 4,114 campaigns. Its important to note that the graph below does not include 
 
 
 ![Outcomes vs Goals2](Outcomes_vs_Goals2.png)
 
-![Theater Outcomes Vs Launch](Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes Vs Launch2](Theater_Outcomes_vs_Launch2.png)
