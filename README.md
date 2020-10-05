@@ -15,11 +15,11 @@ The outcome will be defined by the pledge reaching the goal. The pledge is the d
 If we continue with the example that Louise has a goal of $4,000 for her Kickstarter campaign. 
 Lousie's goal is between $1,000 - $4,999 giving her a 72.66 percent chance that she will be successful reaching her goal. It is important to note that Louise's campaign was compared to similar campaigns filtered by Category 'theatre'. 
 
-![Outcomes vs Goals](Outcomes_vs_Goals2.png)
+![Outcomes vs Goals](Outcomes_vs_Goals.png)
 
 Furthermore, an analysis of outcomes based on the launch date was conducted and the results can be seen below. The graph was filtered to only include the outcome of plays. The graph shows that plays were most likely to be successful during the month of May. Louise can use this information to make a data-driven decision as to when she should release her campaign. If Louise launches her campaign during the month of May she is more likely to reach her goal.
 
-![Theater Outcomes Vs Launch](Theater_Outcomes_vs_Launch2.png)
+![Theater Outcomes Vs Launch](Theater_Outcomes_vs_Launch.png)
 
 #### Note
 The graphs above were created in excel using the Kickstarter_Challenge excel document. Calculations were done within the excel document and pivoting tables were used to manipulate the data to only show similar campaigns to Louise's. To validate calculations for the Outcomes Based on Goals graph open the Kickstarter_Challenge.xlsx document and look at the Outcome Based on Goals sheet. Also, to certify calculations for the Theatre Outcomes based on the Launch Date graph open the Outcome Based on the Launch Date sheet.
